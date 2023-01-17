@@ -1,0 +1,9 @@
+# User specific & automatically generated files
+vendor/
+composer.lock
+composer.phar
+phpunit.xml
+.phpunit.result.cache
+
+# Visual Studio Code
+.vscode
